@@ -1,0 +1,26 @@
+{
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "javascriptreact": "javascript",
+    "typescript": "typescript",
+    "typescriptreact": "typescript"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    ["className\\s*=\\s*\"([^\"]*)\"", "className\\s*=\\s*'([^']*)'"]
+  ]
+}
+
+// {
+//   "editor.quickSuggestions": {
+//     "strings": true
+//   },
+//   "tailwindCSS.includeLanguages": {
+//     "javascript": "javascript",
+//     "javascriptreact": "javascript",
+//     "typescript": "typescript",
+//     "typescriptreact": "typescript"
+//   }
+// }
